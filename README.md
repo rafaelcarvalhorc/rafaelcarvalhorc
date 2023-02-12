@@ -21,4 +21,4 @@
 - 🌱 Estudando JavaScript.
 - 📫 Contate-me por meio dos botões ou em: rafaelmendesrc2020@gmail.com
 
-![Snake animation](https://github.com/rafaelcarvalhorc/rafaelcarvalhorc/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/rafaelcarvalhorc/rafaelcarvalhorc/blob/output/github-contribution-grid-snake.svg)
