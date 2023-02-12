@@ -3,7 +3,7 @@
 18y / Carioca. Sou curioso e gosto de resolver problemas. Me esforço para ouvir, entender e usar toda a minha empatia para conseguir entregar o melhor resultado. Estou disposto a aprender e a escutar sempre. Costumo ser direto ao ponto, logo o meu foco é na eficiência. Os meus estudos estão concentrados em desenvolvimento Front-End, mas pretendo me tornar Full Stack. Quando eu precisar saber de algo, e não souber, posso garantir que consigo aprender, pois sou muito dedicado. Se você me der uma oportunidade eu mostrarei resultados positivos.
 
 <br> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelcarvalhorc&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelcarvalhorc&layout=compact)](https://github.com/rafaelcarvalhorc)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelcarvalhorc&layout=compact&theme=transparent)](https://github.com/rafaelcarvalhorc)
 
 
 <div style="display: inline_block"><br>
