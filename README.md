@@ -17,8 +17,6 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-carvalho-b897ba142/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/futurodevrafa) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/rafaelcarvalhorc#7200) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaelmendesrc2020@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rafaelcarvalhorc) [![Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/rafaelcarvalhorc)
 
-
-- 🌱 Estudando JavaScript.
-- 📫 Contate-me por meio dos botões ou em: rafaelmendesrc2020@gmail.com
+- 📫 Contact me: rafaelrc.work@gmail.com
 
 ![snake gif](https://github.com/rafaelcarvalhorc/rafaelcarvalhorc/blob/output/github-contribution-grid-snake.svg)
